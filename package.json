@@ -1,0 +1,20 @@
+{
+  "name": "ptit_cntt2_it104",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ngyen03hu/PTIT_CNTT4_IT401-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ngyen03hu/PTIT_CNTT4_IT401-/issues"
+  },
+  "homepage": "https://github.com/ngyen03hu/PTIT_CNTT4_IT401-#readme"
+}
