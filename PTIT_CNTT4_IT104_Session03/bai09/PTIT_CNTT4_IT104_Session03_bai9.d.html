@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="vi">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Máy Tính Cơ Bản</title>
+    <style>
+        body {
+            font-family: sans-serif;
+            padding: 20px;
+        }
+
+        input,
+        select,
+        button {
+            margin: 5px;
+            padding: 8px;
+        }
+
+        #result {
+            margin-top: 10px;
+            font-weight: bold;
+        }
+    </style>
+</head>
+
+<body>
+    <h2>🔢 Máy Tính Cơ Bản</h2>
+    <input id="input1" type="text" placeholder="Giá trị 1">
+    <input id="input2" type="text" placeholder="Giá trị 2">
+    <select id="operator">
+        <option value="+">Cộng (+)</option>
+        <option value="-">Trừ (-)</option>
+        <option value="*">Nhân (*)</option>
+        <option value="/">Chia (/)</option>
+        <option value="^">Lũy thừa (^)</option>
+        <option value="√">Căn bậc n (√)</option>
+        <option value="!">Giai thừa (!)</option>
+    </select>
+    <button onclick="handleCalc()">Tính</button>
+    <div id="result"></div>
+
+    <script src="./PTIT_CNTT4_IT104_Session03_bai9.js"></script>
+</body>
+
+</html>
