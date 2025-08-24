@@ -10,7 +10,7 @@ type State = {
     };
 };
 
-export default class Exersice08 extends Component<{}, State> {
+export default class LoginForm extends Component<{}, State> {
     constructor(props: {}) {
         super(props);
         this.state = {

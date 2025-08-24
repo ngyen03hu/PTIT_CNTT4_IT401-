@@ -1,0 +1,33 @@
+.Contert{
+    display: flex;
+    gap: 30px;
+    color: white;
+}
+.red{
+    background-color: red;
+    height: 200px;
+    width: 200px;
+    border: 1px solid red;
+    display: flex;
+    align-items: center;
+    justify-items: center;
+
+}
+.bule{
+    background-color: blue;
+        height: 200px;
+        width: 200px;
+        border: 1px solid blue;
+        display: flex;
+        align-items: center;
+        justify-items: center;
+}
+.green{
+    background-color: green;
+        height: 200px;
+        width: 200px;
+        border: 1px solid green;
+        display: flex;
+        align-items: center;
+        justify-items: center;
+}

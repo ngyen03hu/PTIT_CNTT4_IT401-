@@ -1,6 +1,10 @@
 // import Ex05 from './Components/PTIT_CNTT4_IT104_Session12_bai05/Ex05';
 
-import UserLayout from "./Components/PTIT_CNTT4_IT104_Session12_bai07/UserLayout";
+// import TodoListIndex from "./Components/PTIT_CNTT4_IT104_Session12_bai09/TodoListIndex";
+
+// import UserTable from "./Components/PTIT_CNTT4_IT104_Session12_bai08/UserTable";
+
+// import UserLayout from "./Components/PTIT_CNTT4_IT104_Session12_bai07/UserLayout";
 
 // import Ex01 from "./Components/PTIT_CNTT4_IT104_Session12_bai01/Ex01";
 // import Ex02 from "./Components/PTIT_CNTT4_IT104_Session12_bai02/Ex02";
@@ -18,7 +22,9 @@ export default function App() {
       {/* <Ex04></Ex04> */}
       {/* <Ex05></Ex05> */}
       {/* <Ex06></Ex06> */}
-      <UserLayout></UserLayout>
+      {/* <UserLayout></UserLayout> */}
+      {/* <UserTable></UserTable> */}
+      {/* <TodoListIndex></TodoListIndex> */}
     </div>
   );
 }
