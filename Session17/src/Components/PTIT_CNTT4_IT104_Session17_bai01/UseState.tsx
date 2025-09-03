@@ -4,14 +4,16 @@ type PropTypes = {
     age?: number;
 }
 
-export default function useState(props: PropTypes) {
-    console.log("Props", props);
+export default function UseState({
+    name = "Nguyen Van A",
+    age= 20,
+}: PropTypes) {
 
     return (
         <div>
             <h1>Bai 1</h1>
-            <p>Name:{props.name}</p>
-            <p>Age:{props.age}</p>
+            <p>Name:{name}</p>
+            <p>Age:{age}</p>    
         </div>
     )
 }

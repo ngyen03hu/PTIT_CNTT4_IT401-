@@ -19,7 +19,7 @@ export default function App() {
       {/* <CounText></CounText> */}
       {/* <Select></Select> */}
       {/* <Checkbox></Checkbox> */}
-      <ToDoList></ToDoList>
+      {/* <ToDoList></ToDoList> */}
     </div>
   )
 }
